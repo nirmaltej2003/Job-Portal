@@ -128,10 +128,12 @@ job-portal/
 ## 🖼️ Screenshots
 
 📷 /screenshots/homepage.png
+
 ![image](https://github.com/nirmaltej2003/Job-Portal/blob/main/jobportal/img1.png?raw=true)
 
 
 📷 /screenshots/user profile.png
+
 ![image](https://github.com/nirmaltej2003/Job-Portal/blob/main/jobportal/img2.png?raw=true)
 
 
